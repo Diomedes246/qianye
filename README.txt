@@ -1,2 +1,3 @@
-Open Qianye folder
+Download everything.
+Open Qianye folder.
 And open index.html on your favourite browser <3
