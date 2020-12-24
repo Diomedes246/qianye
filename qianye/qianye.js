@@ -115,7 +115,7 @@ function draw() {
   textSize(20)
   text("seed : " + curLetter + " = " + curSeed + "Hz", 10, 20);
   text("press mouse!", 10, 40);
-  textSize(200)
+  textSize(30)
   text(curLetter, wid/2, hei/2)
 
 
